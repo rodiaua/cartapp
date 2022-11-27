@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tsVwPNBUShw4iu7wU9O6mYwvQIznb4CVCD2Fz63S5gY=",
+  "Source": "RedisCartAPI",
+  "BasePath": "_content/RedisCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
